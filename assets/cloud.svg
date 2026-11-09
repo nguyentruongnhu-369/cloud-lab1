@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 300 200">
+
+  <rect width="300" height="200"
+        rx="20" fill="#eff6ff"/>
+
+  <path d="M85 125
+           C45 125 45 75 85 75
+           C95 35 155 30 175 70
+           C220 55 255 90 235 125
+           Z"
+        fill="#2563eb"/>
+
+  <path d="M115 145 L185 145"
+        stroke="#1e40af"
+        stroke-width="6"
+        stroke-linecap="round"/>
+
+  <circle cx="150" cy="145" r="7"
+          fill="#1e40af"/>
+
+  <text x="150" y="180"
+        font-size="16"
+        text-anchor="middle"
+        fill="#1e40af"
+        font-family="Arial">
+    Cloud Computing
+  </text>
+
+</svg>
